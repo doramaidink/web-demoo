@@ -1,0 +1,67 @@
+@media(min-width: 1024px){
+    .pc{
+            display: block;
+        }
+    }
+    @media(max-width: 1200px){
+        #dora > li{
+            display: block;
+        }
+        #dora .dora-buy-btn{
+            display: block;
+            float: none;
+        }
+        #header .search-btn{
+            display: none;
+        }
+        #header .mobi-menu{
+            font-size: 30px;
+    line-height: 50px;
+    display: block;
+        }
+        #header{
+            overflow: hidden;
+        }
+        .ipad{
+            display: block;
+
+        }
+        .place-img{
+            max-width: 100%;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .img-img{
+            max-width: 100%;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .FB-icon{
+            max-width: 100%;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        #content .DC-section{
+         height: 2250px;
+        }
+        .place-item{
+            width: 100%;
+            padding-bottom: 15px;
+        }
+        .place-img{
+            width: 100%;
+        }
+    }
+    @media(max-width: 740px){
+        #dora > li{
+            display: block;
+        }
+        #dora .dora-buy-btn{
+            display: block;
+            float: none;
+        }
+        .mobi{
+            display: block;
+        }
+     
+    }
